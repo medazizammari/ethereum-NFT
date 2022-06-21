@@ -1,6 +1,6 @@
 # NFT-Market
 
-NFT Marketplace built on Ethereum
+NFT Marketplace built on top of Ethereum to permit my fellow engineering students @INSAT publish and sell their art
 
 ## Demo
 
@@ -13,7 +13,7 @@ This demo demonstrates how:
 - User2 buys an NFTs and make sure ownership is transfered
 - User1 and User2 can both see available NFTs and owned NFTs
 
-[![Video Demo]](https://drive.google.com/file/d/1qdB_ovLhcPfUKstbReDZYidEjwB5xVsn/view?usp=sharing "Video Demo")
+[![Video Demo](https://img.youtube.com/vi/FKxS5eef0Zo/0.jpg)](https://drive.google.com/file/d/1qdB_ovLhcPfUKstbReDZYidEjwB5xVsn/view?usp=sharing "Video Demo")
 
 
 
